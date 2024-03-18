@@ -2,6 +2,8 @@
 <p>Space : Jump <br>
   W,A,S,D : Movement <br>
   LeftMouse : Attack <br>
+  LeftShift : Dash <br>
+  LeftCtrl : crouch slide <br>
   RightMouse : CounterAttack <br>
 </p>
 <p>Upcoming updates : game pause,game exit,skill,UI</p>
